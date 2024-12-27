@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">baruensikdang</string>
+    <string name="kakao_app_key">app_key</string>
+    <string name="kakao_app_key_withkakao">kakao+app_key</string>
+</resources>
